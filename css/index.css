@@ -1,0 +1,35 @@
+@charset "utf-8";
+#demo{
+	width: 70%;
+	margin: 20px auto;
+	padding-bottom: 50px;
+}
+.topCent{
+	width: 1066px;height: 204px;
+}
+.topCent>div{
+	display: inline-block;
+	float: left;
+	width: 280px;
+	height: 204px;
+}
+.topCent-right{
+	margin-left: 100px;
+}
+.topCent-right>div{
+	height: 30px;
+	line-height: 30px;
+	margin-bottom: 25px;
+}
+.wearehouse>div{
+	margin-bottom: 20px;
+	font-size:18px;
+}
+.demo>div{
+	margin-bottom: 10px;
+}
+.demo>div>div{
+	margin-bottom: 10px;
+}
+
+
